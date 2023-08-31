@@ -1,2 +1,2 @@
 # Comm2_2023_2
-Grupo 02, Comunicaciones I - 2023-2
+Banco 6, Comunicaciones II - 2023-2
